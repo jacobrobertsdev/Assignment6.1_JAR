@@ -4,6 +4,7 @@
  *
  */
 public class Node {
+	
 	private int data;
 	private Node lChild;
 	private Node rChild;

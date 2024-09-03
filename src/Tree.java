@@ -2,8 +2,8 @@
  * @author Nathan Johnson, Bellarmine University
  *
  */
-import java.util.Queue; // import the Queue class
 import java.util.LinkedList;
+import java.util.Queue; // import the Queue class
 public class Tree {
 	
 	private int height;
